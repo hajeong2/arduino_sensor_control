@@ -1,0 +1,16 @@
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+*.map
+*.obj
+*.o
+*.d
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+# 비밀 분리 시:
+src/config.h
